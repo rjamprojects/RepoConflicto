@@ -32,6 +32,7 @@ public final class App {
 
     // Logica de Negocio
     public final void launchApp() {
-        System.out.println("Algo complicado B");
+        System.out.println("Algo complicado B + A2");
+         
     }
 }
